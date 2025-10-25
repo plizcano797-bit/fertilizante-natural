@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AbonoNatural - Beneficios y Nutrientes del Abono Orgánico</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="description" content="Descubre los beneficios del abono natural, sus nutrientes y cómo ayuda al crecimiento saludable de las plantas de manera ecológica.">
+</head>
+<body class="bg-green-50 text-gray-800 font-sans">
+
+  <!-- Encabezado -->
+  <header class="bg-green-700 text-white py-4 shadow-lg">
+    <div class="container mx-auto flex justify-between items-center px-4">
+      <h1 class="text-2xl font-bold">🌿 AbonoNatural</h1>
+      <nav class="space-x-4 text-sm">
+        <a href="#inicio" class="hover:underline">Inicio</a>
+        <a href="#beneficios" class="hover:underline">Beneficios</a>
+        <a href="#nutrientes" class="hover:underline">Nutrientes</a>
+        <a href="#aportes" class="hover:underline">Aportes</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section id="inicio" class="text-center py-12 bg-green-100 px-4">
+    <h2 class="text-3xl md:text-4xl font-bold text-green-800 mb-4">
+      Abono Natural: Energía Viva para tus Plantas
+    </h2>
+    <p class="max-w-2xl mx-auto text-gray-700 mb-6">
+      El abono natural es una fuente ecológica de nutrientes que mejora la estructura del suelo y promueve el crecimiento sano de las plantas. Aprende cómo beneficia a tu jardín, huerto o cultivo.
+    </p>
+    <a href="#beneficios" class="bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-800 transition">
+      Conoce más
+    </a>
+  </section>
+
+  <!-- Beneficios -->
+  <section id="beneficios" class="py-12 px-4">
+    <h3 class="text-2xl font-bold text-center text-green-700 mb-8">Beneficios del Abono Natural</h3>
+    <div class="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+      <div class="bg-white shadow-md rounded-lg p-6 text-center">
+        <h4 class="text-xl font-semibold mb-2">🌱 Mejora la estructura del suelo</h4>
+        <p>Incrementa la aireación, retención de agua y permite un mejor desarrollo de las raíces.</p>
+      </div>
+      <div class="bg-white shadow-md rounded-lg p-6 text-center">
+        <h4 class="text-xl font-semibold mb-2">🌾 Estimula la vida microbiana</h4>
+        <p>Favorece microorganismos beneficiosos que transforman los nutrientes y fortalecen las plantas.</p>
+      </div>
+      <div class="bg-white shadow-md rounded-lg p-6 text-center">
+        <h4 class="text-xl font-semibold mb-2">🍅 Incrementa la productividad</h4>
+        <p>Las plantas crecen más fuertes y producen frutos más grandes, sabrosos y nutritivos.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Nutrientes -->
+  <section id="nutrientes" class="bg-green-100 py-12 px-4">
+    <h3 class="text-2xl font-bold text-center text-green-700 mb-8">Principales Nutrientes del Abono Natural</h3>
+    <div class="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h4 class="text-lg font-semibold mb-2">🟡 Nitrógeno (N)</h4>
+        <p>Estimula el crecimiento de hojas y tallos. Es esencial para el desarrollo verde y vigoroso de las plantas.</p>
+      </div>
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h4 class="text-lg font-semibold mb-2">🔵 Fósforo (P)</h4>
+        <p>Favorece el crecimiento de raíces, la floración y la maduración de los frutos.</p>
+      </div>
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h4 class="text-lg font-semibold mb-2">🟢 Potasio (K)</h4>
+        <p>Fortalece la planta, mejora la resistencia a enfermedades y optimiza la calidad de los frutos.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Aportes -->
+  <section id="aportes" class="py-12 px-4">
+    <h3 class="text-2xl font-bold text-center text-green-700 mb-8">Aportes del Abono Natural</h3>
+    <div class="max-w-4xl mx-auto space-y-6 text-gray-700">
+      <p>El abono natural no solo nutre a las plantas, sino que también cuida el medio ambiente. Su uso reduce la contaminación de suelos y aguas, y aprovecha residuos orgánicos como restos de comida, hojas o estiércol.</p>
+      <p>Además, mejora la fertilidad del suelo a largo plazo, evitando la erosión y aportando materia orgánica que equilibra el ecosistema del subsuelo.</p>
+      <p>Al usar abono natural, se fomenta una agricultura sostenible, responsable y más económica, ideal para quienes buscan cuidar su jardín o cultivar de manera ecológica.</p>
+    </div>
+  </section>
+
+  <!-- Pie de página -->
+  <footer class="bg-green-700 text-white text-center py-4 mt-8">
+    <p>&copy; 2025 AbonoNatural. Todos los derechos reservados.</p>
+    <p class="text-sm mt-1">Hecho con 🌿 por amantes de la naturaleza</p>
+  </footer>
+
+</body>
+</html>
